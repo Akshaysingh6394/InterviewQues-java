@@ -1,4 +1,4 @@
-package practice;
+package Array;
 import java.util.*;
 
 public class Matrices {
